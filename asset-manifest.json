@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.cff1325e.css",
+    "main.js": "/travel-journal/static/js/main.265f22ff.js",
+    "static/js/787.31fdceeb.chunk.js": "/travel-journal/static/js/787.31fdceeb.chunk.js",
+    "static/media/heidelberg.png": "/travel-journal/static/media/heidelberg.76c965d6949fd6e13c53.png",
+    "static/media/segesvar.png": "/travel-journal/static/media/segesvar.87db1fa62fd2780f6e10.png",
+    "static/media/strassburg.png": "/travel-journal/static/media/strassburg.9e938c5f0d2c694cac93.png",
+    "static/media/globe-icon.png": "/travel-journal/static/media/globe-icon.741c70b4fc273c8b6c1f.png",
+    "static/media/electricc.png": "/travel-journal/static/media/electricc.93b62d9b35b62fda9caa.png",
+    "static/media/kisjeno.png": "/travel-journal/static/media/kisjeno.8005cfc2be07733f18c8.png",
+    "static/media/zane.png": "/travel-journal/static/media/zane.ce745247631616fc4665.png",
+    "static/media/alpina.png": "/travel-journal/static/media/alpina.0fafb566774029944271.png",
+    "static/media/greece.png": "/travel-journal/static/media/greece.1dcb83cd22749a0272dc.png",
+    "static/media/loc-icon.png": "/travel-journal/static/media/loc-icon.a187ebd9db823b1b8f99.png",
+    "index.html": "/travel-journal/index.html",
+    "main.cff1325e.css.map": "/travel-journal/static/css/main.cff1325e.css.map",
+    "main.265f22ff.js.map": "/travel-journal/static/js/main.265f22ff.js.map",
+    "787.31fdceeb.chunk.js.map": "/travel-journal/static/js/787.31fdceeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cff1325e.css",
+    "static/js/main.265f22ff.js"
+  ]
+}
