@@ -1,25 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Navbar from './Navbar';
+import data from './data.js'
+import Article from './Article';
 
-function App() {
+
+export default function App() {
+  const articles= data.map(item => {
+    return <Article 
+              key={item.id}
+              picture= {item.picture}
+              title={item.title}
+              country={item.country}
+              googlemapsUrl={item.googlemapsUrl}
+              date={item.date}
+              text={item.text}/>
+  }
+  )
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar/>
+      {articles}
     </div>
   );
 }
-
-export default App;
